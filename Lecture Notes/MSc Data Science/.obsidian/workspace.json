@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Employability Overview.md",
+                "file": "-- Independent Projects --/Project 1/1. Data Acquisition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Employability Overview"
+              "title": "1. Data Acquisition"
             }
           },
           {
@@ -205,28 +205,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "dashboard-navigator:Open dashboard navigator": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14a511cc4b5a28ae",
+  "active": "95869a783b20c24c",
   "lastOpenFiles": [
     "Other/Academic Advisor Meeting Notes.md",
+    "Other/Employability Overview.md",
     "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to R/PC1-2 Intro to R & RStudio.md",
     "COMP7023 - Python Programming/Week 2.11 - Defining Functions with Control Statements/2.1 - Defining Functions with Control Statements.md",
     "COMP7023 - Python Programming/Week 1.10 - Python as a Calculator/1.1 - Python as a Calculator.md",
     "COMP7023 - Python Programming/Week 1.10 - Python as a Calculator/1.2 - Python as a Calculator.md",
     "COMP7023 - Python Programming/Week 1.10 - Python as a Calculator/1.3 - (S) Python as a Calculator.md",
     "Other/📌 Dashboard.md",
-    "Other/Employability Overview.md",
     "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to R/Lecture 1 - Introduction.md",
     "Other/Images/Pasted image 20251013095822.png",
     "Other/Images/Pasted image 20251013095546.png",
-    "-- Independent Projects --/Project 1/Data Acquisition.md",
+    "-- Independent Projects --/Project 1/1. Data Acquisition.md",
     "Other/Templates/Python Programming Template.md",
     "Other/Templates/Foundations of Data Science Template.md",
     "COMP7023 - Python Programming/-- IMPORTANT --/Assessments.md",
