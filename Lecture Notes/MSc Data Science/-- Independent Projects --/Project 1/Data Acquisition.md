@@ -1,0 +1,43 @@
+# yfinance
+## Arguments of `yf.download()`
+- `tickers`
+	- Ticker(s) to download
+	- str or list of str
+	- `yf.download(tickers="AAPL")`
+- `start` and `end`
+	- Start/end dates for ticker `df`
+	- str of datetime
+	- `start="2024-01-01", end="2024-12-31"`
+- `period`
+	- Defines how far back to fetch data
+	- str
+	- valid values: `"1d"`, `"5d"`, ..., `"5y"`, `"ytd"`, `"max"`
+	- `period="1y"`
+- `interval`
+	- The data frequency per row
+	- str
+	- Similar syntax to `period`
+- `group_by`
+	- How to group output columns when multiple tickers
+	- str
+	- valid values: `column`, `ticker`, etc
+- `auto_adjust`
+	- If `True`, adjusts OHLC for dividends and splits (no separate `Adj Close` column)
+	- bool
+- `actions`
+	- If `True`, include stock dividends and stock splits in output
+	- bool
+- `rounding`
+	- If `True`, round to 2 decimal places
+	- bool
+- `ignore_tz`
+	- Ignores timezone differences when combining tickers
+	- bool
+- `show_errors`
+	- If `False`, suppress printing of error messages during download
+	- bool
+- `timeout`
+	- Max time (in seconds) to wait on a network response before timing out
+	- float or none
+
+

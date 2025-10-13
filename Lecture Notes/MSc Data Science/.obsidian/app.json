@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Other/Images",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "propertiesInDocument": "visible",
+  "strictLineBreaks": false,
+  "userIgnoreFilters": [
+    "Other/"
+  ]
+}

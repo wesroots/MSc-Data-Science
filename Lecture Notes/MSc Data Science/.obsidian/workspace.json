@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "eaada4c38909d3be",
+    "type": "split",
+    "children": [
+      {
+        "id": "82f99ac2a574ab1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88bbd288b4e986a8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/📌 Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "📌 Dashboard"
+            }
+          },
+          {
+            "id": "7dec4b78f8f07a5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to R/PC1-2 Intro to R & RStudio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PC1-2 Intro to R & RStudio"
+            }
+          },
+          {
+            "id": "14a511cc4b5a28ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Employability Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Employability Overview"
+            }
+          },
+          {
+            "id": "a58ac648485761b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP7023 - Python Programming/Week 2.11 - Defining Functions with Control Statements/2.1 - Defining Functions with Control Statements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 - Defining Functions with Control Statements"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a4895e720a4332a",
+    "type": "split",
+    "children": [
+      {
+        "id": "302186b8f3c9682a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95869a783b20c24c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c37e341e76a5efe6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7a01a751a60b19d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.50390243530273
+  },
+  "right": {
+    "id": "b82c9fded672a81a",
+    "type": "split",
+    "children": [
+      {
+        "id": "01b79d0895005185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59ab909587e22c18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "-- Daily Notes --/Sat 4th Oct.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sat 4th Oct"
+            }
+          },
+          {
+            "id": "d35db8f9fd91e42f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4018c56dedd8634",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Mathematics for Data Science/M7 - Advanced Probability & Stats/7.2 - Estimation & Testing.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 7.2 - Estimation & Testing"
+            }
+          },
+          {
+            "id": "ccfc28866acf36ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🔴 Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🔴 Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "14a511cc4b5a28ae",
+  "lastOpenFiles": [
+    "Other/Academic Advisor Meeting Notes.md",
+    "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to R/PC1-2 Intro to R & RStudio.md",
+    "COMP7023 - Python Programming/Week 2.11 - Defining Functions with Control Statements/2.1 - Defining Functions with Control Statements.md",
+    "COMP7023 - Python Programming/Week 1.10 - Python as a Calculator/1.1 - Python as a Calculator.md",
+    "COMP7023 - Python Programming/Week 1.10 - Python as a Calculator/1.2 - Python as a Calculator.md",
+    "COMP7023 - Python Programming/Week 1.10 - Python as a Calculator/1.3 - (S) Python as a Calculator.md",
+    "Other/📌 Dashboard.md",
+    "Other/Employability Overview.md",
+    "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to R/Lecture 1 - Introduction.md",
+    "Other/Images/Pasted image 20251013095822.png",
+    "Other/Images/Pasted image 20251013095546.png",
+    "-- Independent Projects --/Project 1/Data Acquisition.md",
+    "Other/Templates/Python Programming Template.md",
+    "Other/Templates/Foundations of Data Science Template.md",
+    "COMP7023 - Python Programming/-- IMPORTANT --/Assessments.md",
+    "MAST7866 - Foundations of Data Science/-- IMPORTANT --/Assessments.md",
+    "COMP7023 - Python Programming/-- IMPORTANT --/Module Overview.md",
+    "-- Independent Projects --/Project 1",
+    "Independent Projects",
+    "MAST7866 - Foundations of Data Science/-- IMPORTANT --/Module Overview.md",
+    "-- Daily Notes --/Tue 7th Oct.md",
+    "-- Daily Notes --/Sun 5th Oct.md",
+    "Other/Images/Screenshot 2025-10-07 at 10.51.05.png",
+    "Other/Images/Screenshot 2025-10-07 at 10.50.59.png",
+    "Other/Images/Screenshot 2025-10-07 at 10.50.52.png",
+    "Other/Images/Screenshot 2025-10-07 at 10.50.44.png",
+    "Other/Images/Screenshot 2025-10-07 at 10.50.37.png",
+    "Other/Images/Screenshot 2025-10-07 at 10.50.30.png",
+    "Other/Images/Screenshot 2025-10-07 at 10.50.23.png",
+    "Other/Images/Screenshot 2025-10-07 at 10.50.13.png",
+    "-- Independent Projects --",
+    "-- Daily Notes --/Sat 4th Oct.md",
+    "MAST7866 - Foundations of Data Science/Week 2.11",
+    "Other/Templates/Daily Note Template.md",
+    "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to R",
+    "-- Daily Notes --/ddd 04/10/2025277 Oct.md",
+    "-- Daily Notes --/ddd 04/10",
+    "-- Daily Notes --/ddd 04",
+    "Daily Notes/ddd 04/10/2025277 Oct.md",
+    "Daily Notes/ddd 04/10",
+    "Daily Notes/ddd 04",
+    "Daily Notes",
+    "Daily Notes/<% tp.date.now(\"ddd Do MMM\") %>.md",
+    "COMP7023 - Python Programming/Week 7.16 - Interfaces and Inheritance/7.1 - Interfaces and Inheritance.md",
+    "COMP7023 - Python Programming/Week 8.17 - Panda's DataFrame & Efficiency./8.1 - Panda's DataFrame & Efficiency.md",
+    "COMP7023 - Python Programming/Week 8.17 - Panda's DataFrame & Efficiency./8.2 - Panda's DataFrame & Efficiency.md",
+    "Untitled.canvas"
+  ]
+}
