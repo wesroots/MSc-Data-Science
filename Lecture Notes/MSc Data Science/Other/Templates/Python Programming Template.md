@@ -2,6 +2,7 @@
 Module: Python Programming
 Week Beginning:
 Note Type:
+  - Lecture
 tags:
   - "#programming"
 ---

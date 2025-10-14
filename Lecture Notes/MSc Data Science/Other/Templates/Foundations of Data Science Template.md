@@ -2,6 +2,7 @@
 Module: Foundations of Data Science
 Week Beginning:
 Note Type:
+  - Lecture
 tags:
 ---
 >[!note] Lecture Notes (Post-Lecture Checklist)

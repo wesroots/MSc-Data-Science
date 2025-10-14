@@ -1,4 +1,4 @@
-# --- Task 1: Watch video on moodle ---
+# --- Task 1: Watch video on Moodle ---
 
 # --- Task 2: Measures of location ---
 # Calculating mean and median ignoring NA values
@@ -60,4 +60,28 @@ sd(schoolA)
 # --- Challenge 3: STDev of school B ---
 sd(schoolB)
 
-# --- Task 4: Watch video on moodle ---
+# --- Task 4: Watch video on Moodle ---
+
+# --- Task 5: Shapes of distributions ---
+
+# --- Challenge 4: Skewness and kurtosis of schools A and B
+install.packages("moments")
+library(moments)
+skewness(schoolA)
+kurtosis(schoolB)
+
+# --- Task 6: Association between variables ---
+# Exploring association between variables in "iris" dataset
+attach(iris)
+plot(Petal.Length, Petal.Width,
+     main="Petal length vs petal width",
+     xlab="Petal length",
+     ylab="Petal width")
+# Product moment correlation coefficient
+cor.test(Petal.Length, Petal.Width)
+
+# Challenge 5: Produce scatter plot of Sepal.Length vs Sepal.Width and calculate correlation
+plot(Sepal.Length, Sepal.Width,
+     main="Sepal length vs width",
+     xlab="Sepal length",
+     ylab="Sepal width")
