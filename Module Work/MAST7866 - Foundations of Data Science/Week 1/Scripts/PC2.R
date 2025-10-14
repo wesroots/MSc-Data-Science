@@ -76,14 +76,19 @@ legend("topright", legend = c("Cases", "Deaths"),
        fill = c("red", "blue"))
 
 # --- Challenge 3: Births by Maternal Age ---
-births <- read.table("data/births_maternal_age.txt", header = TRUE, sep = "\t")
-View(births)
+births_maternal_age <- read.table("data/births_maternal_age.txt", header = TRUE, sep = "\t")
 
-par(mfrow = c(1, 1))
-barplot(t(births[, 2:ncol(births)]),
-        beside = TRUE, col = rainbow(ncol(births) - 1),
-        names.arg = births$Year,
-        main = "Births by Maternal Age Group",
-        xlab = "Year", ylab = "Number of Births")
-legend("topright", legend = names(births)[-1],
-       fill = rainbow(ncol(births) - 1))
+age1<-c(births_maternal_age$Under.20)
+age2<-c(births_maternal_age$X20.to.24)
+names(age1)<- births_maternal_age$Year
+names(age2)<- births_maternal_age$Year
+ages<-cbind(age1,age2)
+barplot(t(ages),
+        beside=TRUE,
+        col = c("red","blue"),
+        ylim = c(0,300000),
+        main="Maternal Age of Mothers",
+        xlab="Year",
+        ylab="Number")
+legend("topright", legend = c("aged under 20", "aged 20-24"), fill = c("red", "blue"))
+       

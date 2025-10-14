@@ -1,3 +1,10 @@
+---
+Module: Foundations of Data Science
+Week Beginning:
+Note Type:
+  - Independent
+tags:
+---
 # R Introduction
 ## Purpose
 ### Intro

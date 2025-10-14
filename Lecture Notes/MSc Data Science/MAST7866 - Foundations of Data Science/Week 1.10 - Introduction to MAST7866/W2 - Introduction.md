@@ -1,11 +1,13 @@
 ---
 Module: Foundations of Data Science
-Lecture Date: 2025-10-01
+Week Beginning: 2025-10-06
 Note Type:
   - Lecture
+tags:
 ---
 >[!note] Lecture Notes (Post-Lecture Checklist)
->**These points were written during the lecture to capture key ideas and actions for review - the following notes expand on checklist items through post-lecture reflection and structured consolidation.**
+>**These points were written during the lectures + seminars throughout the week to capture key ideas and actions for review - the following notes expand on checklist items through post-lecture reflection and structured consolidation.**
+>## Lecture
 >- Binomial coefficient - definition and formula
 >- Random sampling notation ($N, n, x, X, P(X=x)$)
 >- Capture-recapture method (last slide of intro) - lincoln petersen + reasoning

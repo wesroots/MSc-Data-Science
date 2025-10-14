@@ -10,6 +10,7 @@
     "Done": "checkbox",
     "Status": "multitext",
     "Lecture Date": "date",
-    "Note Type": "multitext"
+    "Note Type": "multitext",
+    "Week Beginning": "date"
   }
 }
