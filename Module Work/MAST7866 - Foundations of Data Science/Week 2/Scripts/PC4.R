@@ -1,17 +1,63 @@
+# --- Task 1: Watch video on moodle ---
+
+# --- Task 2: Measures of location ---
 # Calculating mean and median ignoring NA values
 Letters <- c(3,2,10,5,9,4,2,6,3,4,3)
 mean(Letters, na.rm=TRUE)
 median(Letters, na.rm=TRUE)
 
-# --- Challenge 1 - employees' ages ---
+# --- Challenge 1 - Employees' ages ---
 Age <- c(53,32,61,27,39,44,49,57)
 mean(Age)
-
 # Taking random sample of 3 and calculating mean
 x1 <- c(sample(Age, 3, replace = FALSE))
 mean(x1)
-
 # No function to compute mode, instead tabulate the data:
 y <- table(Letters)
 names(y)[which(y==max(y))]
 
+# --- Task 3: Measures of dispersion ---
+# Plotting school data histograms
+attach(school)
+par(mfrow=c(2,1))
+hist(schoolA,
+     breaks=10,
+     main="Histogram showing students overall percentage (School A)",
+     xlab="overall percentage",
+     xlim=c(0,100),
+     ylim=c(0,8))
+hist(schoolB,
+     breaks=10,
+     main="Histogram showing students overall percentage (School B)",
+     xlab="overall percentage",
+     xlim=c(0,100),
+     ylim=c(0,8))
+# Mean is the same, however, histograms show different distributions
+# Measures of dispersion used:
+range_A <- max(schoolA)-min(schoolA)
+range_B <- max(schoolB)-min(schoolB)
+# IQR
+par(mfrow=c(1,1))
+fivenum(schoolA)
+boxplot(schoolA,
+        main = "School A",
+        ylab = "Overall Percentage",
+        xlab = "Students",
+        horizontal = TRUE,
+        col = "lightgray",
+        border = "black")
+
+# --- Challenge 2: Car boxplot comparison ---
+# Inspection
+?mtcars
+head(mtcars)
+# Plotting boxplot
+boxplot(wt~cyl, data=mtcars, main="Vehicle Weight", xlab="Number of Cylinders", ylab="Weight")
+# Sample spread
+var(schoolA)
+sd(schoolA)
+
+# --- Challenge 3: STDev of school B ---
+sd(schoolB)
+
+# --- Task 4: Watch video on moodle ---
