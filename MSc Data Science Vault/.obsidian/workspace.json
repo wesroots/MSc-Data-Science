@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "938f1e3eaab26222",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1c1965fd0af99bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc58f31620c4eca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAST7866 - Foundations of Data Science/Lecture Notes/Week 1.10 - Introduction to MAST7866/PC - Syntax Breakdown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PC - Syntax Breakdown"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71f0618877688777",
+    "type": "split",
+    "children": [
+      {
+        "id": "34a26adb736d136c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "425a9771805f999e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "68d87cd86140943b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "921aa2d2dc248b91",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba11105da1638e92",
+    "type": "split",
+    "children": [
+      {
+        "id": "897e59179de9f20f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91489ba7cf47ad87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to MAST7866/W1 - Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for W1 - Introduction"
+            }
+          },
+          {
+            "id": "6fc9c980e8d3db1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to MAST7866/W1 - Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from W1 - Introduction"
+            }
+          },
+          {
+            "id": "8b4faffb03f343fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fab16c56a490abd2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to MAST7866/W1 - Introduction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of W1 - Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bc58f31620c4eca4",
+  "lastOpenFiles": [
+    "MAST7866 - Foundations of Data Science/Lecture Notes/Week 1.10 - Introduction to MAST7866/W1 - Introduction.md",
+    "MAST7866 - Foundations of Data Science/Lecture Notes/Week 2.11 - Introductory Probability/PC - Session Notes *.md",
+    "COMP7023 - Python Programming/Lecture Notes/Week 1.10 - Python as a Calculator/1.1 - Python as a Calculator.md",
+    "COMP7023 - Python Programming/Module Work/Week 1 - Python as a Calculator/worksheet1.pdf",
+    "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to MAST7866/PC - Syntax Breakdown.md",
+    "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to MAST7866/W1 - Introduction.md",
+    "MAST7866 - Foundations of Data Science/-- IMPORTANT --/Repo Format.md"
+  ]
+}
