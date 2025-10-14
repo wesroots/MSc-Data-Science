@@ -2,10 +2,6 @@
 cssclasses: dashboard
 ---
 >[!note] Important
->```dataviewjs
-const name = window.moment().format("ddd Do MMM");
-dv.paragraph(dv.fileLink("-- Daily Notes --/" + name, false, "Open today's note"));
->```
 >[[Employability Overview]]
 ## Modules
 - **MAST7866 - Foundations of Data Science**
