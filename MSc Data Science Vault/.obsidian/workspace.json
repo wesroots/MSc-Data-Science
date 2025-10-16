@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP7023 - Python Programming/Lecture Notes/Week 1.10 - Python as a Calculator/1.1 - Python as a Calculator.md",
+                "file": "COMP7023 - Python Programming/Lecture Notes/1.1 - Python as a Calculator.md",
                 "mode": "source",
                 "source": false
               },
@@ -189,16 +189,17 @@
   },
   "active": "008ed8246384737a",
   "lastOpenFiles": [
-    "MAST7866 - Foundations of Data Science/Lecture Notes/Week 2 - Introductory Probability/W2 - Introductory Probability *.md",
     "MAST7866 - Foundations of Data Science/Lecture Notes/Week 2 - Introductory Probability/PC - Syntax Breakdown *.md",
+    "MAST7866 - Foundations of Data Science/Lecture Notes/Week 1 - Introduction to MAST7866/W1 - Introduction.md",
+    "MAST7866 - Foundations of Data Science/Lecture Notes/Week 1 - Introduction to MAST7866/PC - Syntax Breakdown.md",
+    "MAST7866 - Foundations of Data Science/Lecture Notes/Week 2 - Introductory Probability/W2 - Introductory Probability *.md",
+    "COMP7023 - Python Programming/Lecture Notes/1.1 - Python as a Calculator.md",
     "MAST7866 - Foundations of Data Science/-- IMPORTANT --/Assessments.md",
     "MAST7866 - Foundations of Data Science/-- IMPORTANT --/Module Overview.md",
     "MAST7866 - Foundations of Data Science/-- IMPORTANT --/Intro to R & RStudio.md",
     "Other/Employability Overview.md",
     "Other/Academic Advisor Meeting Notes.md",
     "README.md",
-    "MAST7866 - Foundations of Data Science/Lecture Notes/Week 1 - Introduction to MAST7866/W1 - Introduction.md",
-    "MAST7866 - Foundations of Data Science/Lecture Notes/Week 1 - Introduction to MAST7866/PC - Syntax Breakdown.md",
     "MAST7866 - Foundations of Data Science/Lecture Notes/Week 2 - Introductory Probability",
     "MAST7866 - Foundations of Data Science/Lecture Notes/Week 1.10 - Introduction to MAST7866/PC - Syntax Breakdown *.md",
     "MAST7866 - Foundations of Data Science/Lecture Notes/Week 1 - Introduction to MAST7866",
@@ -211,8 +212,7 @@
     "MAST7866 - Foundations of Data Science/Lecture Notes/Week 2.11 - Introductory Probability/PC - Syntax Breakdown *.md",
     "README.md.sb-e251d488-3sbagb",
     "-- Independent Projects --/README 1.md",
-    "COMP7023 - Python Programming/Lecture Notes/Week 1.10 - Python as a Calculator/1.1 - Python as a Calculator.md",
-    "COMP7023 - Python Programming/Module Work/Week 1 - Python as a Calculator/worksheet1.pdf",
+    "COMP7023 - Python Programming/Seminar Sessions/Week 1 - Python as a Calculator/worksheet1.pdf",
     "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to MAST7866/PC - Syntax Breakdown.md",
     "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to MAST7866/W1 - Introduction.md",
     "MAST7866 - Foundations of Data Science/-- IMPORTANT --/Repo Format.md"
