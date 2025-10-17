@@ -18,6 +18,7 @@ tags:
 >	- Product moment correlation coefficient
 >- Z score
 >## Lecture
+>- 
 
 
 ---
