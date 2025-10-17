@@ -17,6 +17,7 @@ tags:
 >	- Obtaining moments in R
 >	- Product moment correlation coefficient
 >- Z score
+>## Lecture
 
 
 ---

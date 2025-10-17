@@ -29,16 +29,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAST7866 - Foundations of Data Science/Lecture Notes/Week 2 - Introductory Probability/PC 3-4 - Syntax Breakdown *.md",
+                "file": "Meeting Agendas/Academic Advisor Meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PC 3-4 - Syntax Breakdown *"
+              "title": "Academic Advisor Meeting"
+            }
+          },
+          {
+            "id": "ef743dc5e392ebe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "70045c0b12717f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAST7866 - Foundations of Data Science/Lecture Notes/Weeks 1-3 Syntax Breakdowns/W2 - PC 3-4 - Syntax Breakdown *.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W2 - PC 3-4 - Syntax Breakdown *"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba11105da1638e92",
@@ -187,22 +216,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "008ed8246384737a",
+  "active": "70045c0b12717f92",
   "lastOpenFiles": [
-    "MAST7866 - Foundations of Data Science/Lecture Notes/Week 1 - Introduction to MAST7866/PC 1-2 - Syntax Breakdown.md",
+    "MAST7866 - Foundations of Data Science/Lecture Notes/Weekly Notes/W2 - Introductory Probability *.md",
+    "COMP7023 - Python Programming/Week 1 - Python as a Calculator/W1 - Python as a Calculator.md",
+    "MAST7866 - Foundations of Data Science/Lecture Notes/Weeks 1-3 Syntax Breakdowns/W2 - PC 3-4 - Syntax Breakdown *.md",
+    "COMP7023 - Python Programming/Week 1 - Python as a Calculator/worksheet1.pdf",
+    "COMP7023 - Python Programming/Week 1 - Python as a Calculator/Worksheet 1.ipynb",
+    "COMP7023 - Python Programming/Week 1 - Python as a Calculator",
+    "COMP7023 - Python Programming/untitled folder",
+    "MAST7866 - Foundations of Data Science/Lecture Notes/Weeks 1-3 Syntax Breakdowns/W1 - PC 1-2 - Syntax Breakdown.md",
+    "Meeting Agendas/Academic Advisor Meeting.md",
+    "MAST7866 - Foundations of Data Science/Lecture Notes/Week 1 - Introduction to MAST7866/W1 - Introduction to MAST7866.md",
+    "MAST7866 - Foundations of Data Science/Lecture Notes/Weekly Notes/W1 - Introduction to MAST7866.md",
+    "MAST7866 - Foundations of Data Science/Lecture Notes/PC 3-4 - Syntax Breakdown *.md",
+    "MAST7866 - Foundations of Data Science/Lecture Notes/Weeks 1-3 Syntax Breakdowns",
+    "MAST7866 - Foundations of Data Science/Lecture Notes/untitled folder",
+    "MAST7866 - Foundations of Data Science/Lecture Notes/Weekly Notes",
+    "COMP7023 - Python Programming/Seminar Sessions/untitled folder",
+    "Meeting Agendas/README.md",
+    "Meeting Agendas/Supervisor Meeting.md",
     "MAST7866 - Foundations of Data Science/Lecture Notes/Week 2 - Introductory Probability/PC 3-4 - Syntax Breakdown *.md",
     "MAST7866 - Foundations of Data Science/Lecture Notes/Week 2 - Introductory Probability/W2 - Introductory Probability *.md",
-    "MAST7866 - Foundations of Data Science/Lecture Notes/Week 1 - Introduction to MAST7866/W1 - Introduction.md",
+    "README.md",
+    "Meeting Agendas",
+    "MAST7866 - Foundations of Data Science/Lecture Notes/Week 1 - Introduction to MAST7866/PC 1-2 - Syntax Breakdown.md",
     "COMP7023 - Python Programming/Lecture Notes/1.1 - Python as a Calculator.md",
     "MAST7866 - Foundations of Data Science/-- IMPORTANT --/Assessments.md",
     "MAST7866 - Foundations of Data Science/-- IMPORTANT --/Module Overview.md",
     "MAST7866 - Foundations of Data Science/-- IMPORTANT --/Intro to R & RStudio.md",
     "Other/Employability Overview.md",
-    "Other/Academic Advisor Meeting Notes.md",
-    "README.md",
     "MAST7866 - Foundations of Data Science/Lecture Notes/Week 2 - Introductory Probability",
     "MAST7866 - Foundations of Data Science/Lecture Notes/Week 1.10 - Introduction to MAST7866/PC - Syntax Breakdown *.md",
-    "MAST7866 - Foundations of Data Science/Lecture Notes/Week 1 - Introduction to MAST7866",
     "Other/Images/Screenshot 2025-10-14 at 16.48.35.png",
     "Other/Images/Screenshot 2025-10-14 at 16.42.54.png",
     "Other/Images/Screenshot 2025-10-14 at 16.34.04.png",
@@ -210,11 +255,7 @@
     "MAST7866 - Foundations of Data Science/Lecture Notes/Week 2.11 - Introductory Probability/W2 - Introductory Probability *.md",
     "Other/📌 Dashboard.md",
     "MAST7866 - Foundations of Data Science/Lecture Notes/Week 2.11 - Introductory Probability/PC - Syntax Breakdown *.md",
-    "README.md.sb-e251d488-3sbagb",
     "-- Independent Projects --/README 1.md",
-    "COMP7023 - Python Programming/Seminar Sessions/Week 1 - Python as a Calculator/worksheet1.pdf",
-    "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to MAST7866/PC - Syntax Breakdown.md",
-    "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to MAST7866/W1 - Introduction.md",
-    "MAST7866 - Foundations of Data Science/-- IMPORTANT --/Repo Format.md"
+    "MAST7866 - Foundations of Data Science/Week 1.10 - Introduction to MAST7866/PC - Syntax Breakdown.md"
   ]
 }
