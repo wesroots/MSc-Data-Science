@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "eaada4c38909d3be",
+    "type": "split",
+    "children": [
+      {
+        "id": "c298fca19566f5ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c742de55f006b23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Python for Data Science/P4 - ✅ User Functions.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "P4 - ✅ User Functions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a4895e720a4332a",
+    "type": "split",
+    "children": [
+      {
+        "id": "302186b8f3c9682a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95869a783b20c24c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c37e341e76a5efe6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7a01a751a60b19d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.50390243530273
+  },
+  "right": {
+    "id": "b82c9fded672a81a",
+    "type": "split",
+    "children": [
+      {
+        "id": "01b79d0895005185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5ac6432b8b0b0c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Mathematics for Data Science/M7 - Advanced Probability & Stats/7.2 - Estimation & Testing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 7.2 - Estimation & Testing"
+            }
+          },
+          {
+            "id": "59ab909587e22c18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Mathematics for Data Science/M7 - Advanced Probability & Stats/7.2 - Estimation & Testing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 7.2 - Estimation & Testing"
+            }
+          },
+          {
+            "id": "d35db8f9fd91e42f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4018c56dedd8634",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Mathematics for Data Science/M7 - Advanced Probability & Stats/7.2 - Estimation & Testing.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 7.2 - Estimation & Testing"
+            }
+          },
+          {
+            "id": "731d00165c4f7c43",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6c742de55f006b23",
+  "lastOpenFiles": [
+    "1. Python for Data Science/P12 - Functional Programming Tools.md",
+    "1. Python for Data Science/P9 - ✅ Object-Oriented Programming (OOP).md",
+    "1. Python for Data Science/P10 - Iterators and Generators.md",
+    "1. Python for Data Science/P11 - Comprehensions.md",
+    "Untitled.md",
+    "3. Mathematics for Data Science/M4 - Probability & Statistics/4.2 - ✅ Random Variables.md",
+    "3. Mathematics for Data Science/M4 - Probability & Statistics/4.1 - ✅ Probability Basics.md",
+    "3. Mathematics for Data Science/M4 - Probability & Statistics/4.3 - ✅ Expectations & Variance.md",
+    "1. Python for Data Science/P5 - ✅ Arguments.md",
+    "1. Python for Data Science/P6 - ✅ Error Handling.md",
+    "3. Mathematics for Data Science/M3 - Linear Algebra/3.1 - ✅ Matrices.md",
+    "3. Mathematics for Data Science/M2 - Calculus/2.1 - ✅ Differentiation.md",
+    "3. Mathematics for Data Science/M3 - Linear Algebra/3.5 - ✅ Variance & Covariance.md",
+    "3. Mathematics for Data Science/M7 - Advanced Probability & Stats/7.4 - Bayesian.md",
+    "3. Mathematics for Data Science/M6 - Numerical Methods/6.2 - ✅ Numerical Linear Algebra.md",
+    "3. Mathematics for Data Science/M7 - Advanced Probability & Stats/7.1 - ✅ Multivariate.md",
+    "1. Python for Data Science/P2 - ✅ Control Flow.md",
+    "1. Python for Data Science/P8 - ✅ Modules and Packages.md",
+    "1. Python for Data Science/P7 - ✅ File Handling.md",
+    "1. Python for Data Science/P1 - ✅ Basics.md",
+    "3. Mathematics for Data Science/M7 - Advanced Probability & Stats/7.5 - Statistical Analysis.md",
+    "3. Mathematics for Data Science/M7 - Advanced Probability & Stats/7.3 - ✅ Regression.md",
+    "3. Mathematics for Data Science/M6 - Numerical Methods/6.3 - ✅ Numerical Integration.md",
+    "3. Mathematics for Data Science/M4 - Probability & Statistics/M4 Exercises/E4.3 - Expectations & Variance.pdf",
+    "3. Mathematics for Data Science/M5 - Discrete Maths/5.1 - ✅ Logic & Proof.md",
+    "3. Mathematics for Data Science/M7 - Advanced Probability & Stats/7.2 - ✅ Estimation & Testing (Statistical Inference).md",
+    "-- Other --/Images/Screenshot 2025-09-28 at 15.17.10.png",
+    "-- Images --/Basics_Exercises.ipynb.md",
+    "-- Images --",
+    "-- Other --/Images/Pasted image 20250927092014.png",
+    "-- Other --/Images/Pasted image 20250927092007.png",
+    "-- Other --/Images/output (10).png",
+    "-- Other --/Images/Pasted image 20250926123156.png",
+    "-- Other --/Images/Pasted image 20250926104146.png",
+    "-- Other --/Images/Pasted image 20250923141032.png",
+    "-- Other --/Images/Pasted image 20250923135938.png",
+    "-- Other --/Images/Pasted image 20250923134523.png",
+    "-- Other --/Images/Pasted image 20250923125939.png",
+    "3. Mathematics for Data Science/-- Topic Tests --/M3 Linear Algebra.pdf",
+    "3. Mathematics for Data Science/-- Topic Tests --",
+    "-- Other --/Exercises/Maths/-- Topic Tests --/M3 Linear Algebra.pdf",
+    "-- Other --/Exercises/Maths/-- Topic Tests --",
+    "3. Mathematics for Data Science/M5 - Discrete Maths/M5 -Exercises/5.4 - Graph Theory.pdf",
+    "3. Mathematics for Data Science/M5 - Discrete Maths/M5 -Exercises/5.3 - Combinatorics.pdf",
+    "3. Mathematics for Data Science/M5 - Discrete Maths/M5 -Exercises/5.2 - Sets & Functions.pdf",
+    "3. Mathematics for Data Science/M5 - Discrete Maths/M5 -Exercises/5.1 - Logic & Proof.pdf"
+  ]
+}
