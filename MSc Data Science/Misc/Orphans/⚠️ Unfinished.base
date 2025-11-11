@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.name.contains("*")
+  - type: table
+    name: View
+  - type: dash-memory-card-view
+    name: View 2
+  - type: dash-table-view
+    name: View 3

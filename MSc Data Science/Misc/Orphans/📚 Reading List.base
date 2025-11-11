@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.folder == "Misc/Reading List/Notes"
+views:
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - Reading Order
+      - Phase
+      - totalPage
+    sort:
+      - property: Reading Order
+        direction: ASC
+    image: note.coverUrl

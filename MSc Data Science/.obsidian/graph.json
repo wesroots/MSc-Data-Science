@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "-path:Misc  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[\"module\":\"Foundations of Data Science\"]",
+      "color": {
+        "a": 1,
+        "rgb": 6334265
+      }
+    },
+    {
+      "query": "[\"note type\":\"Other\"]",
+      "color": {
+        "a": 1,
+        "rgb": 9408399
+      }
+    },
+    {
+      "query": "[\"module\":\"Python Programming\"]",
+      "color": {
+        "a": 1,
+        "rgb": 5331394
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.997636114690722,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.497301868556701,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.8821087883906386,
+  "close": true
+}
