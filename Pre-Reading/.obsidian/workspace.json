@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "P4 - ✅ User Functions"
             }
+          },
+          {
+            "id": "7318846d74a83a5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,8 +172,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -181,13 +196,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c742de55f006b23",
+  "active": "7318846d74a83a5f",
   "lastOpenFiles": [
+    "1. Python for Data Science/P4 - ✅ User Functions.md",
+    "README.md",
     "1. Python for Data Science/P12 - Functional Programming Tools.md",
     "1. Python for Data Science/P9 - ✅ Object-Oriented Programming (OOP).md",
     "1. Python for Data Science/P10 - Iterators and Generators.md",
     "1. Python for Data Science/P11 - Comprehensions.md",
-    "Untitled.md",
     "3. Mathematics for Data Science/M4 - Probability & Statistics/4.2 - ✅ Random Variables.md",
     "3. Mathematics for Data Science/M4 - Probability & Statistics/4.1 - ✅ Probability Basics.md",
     "3. Mathematics for Data Science/M4 - Probability & Statistics/4.3 - ✅ Expectations & Variance.md",
@@ -210,7 +226,6 @@
     "3. Mathematics for Data Science/M5 - Discrete Maths/5.1 - ✅ Logic & Proof.md",
     "3. Mathematics for Data Science/M7 - Advanced Probability & Stats/7.2 - ✅ Estimation & Testing (Statistical Inference).md",
     "-- Other --/Images/Screenshot 2025-09-28 at 15.17.10.png",
-    "-- Images --/Basics_Exercises.ipynb.md",
     "-- Images --",
     "-- Other --/Images/Pasted image 20250927092014.png",
     "-- Other --/Images/Pasted image 20250927092007.png",

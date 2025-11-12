@@ -8,19 +8,18 @@ All content is version-controlled and written to demonstrate reproducible, organ
 ---
 
 ## Repository Structure
-MSc-Data-Science/
-- Modules/ → core taught modules (lecture notes, PC sessions, scripts, university material)
-- Pre-Reading/ → independent preparatory material before the MSc
-- Projects/ → independent data science projects
-- README.md → current file
+- MSc-Data-Science/ - core taught modules (lecture notes, PC sessions, scripts, university material).
+- Pre-Reading/ - independent preparatory material before the MSc.
+- Projects/ - independent data science projects.
+- README.md - current file.
 
 ---
 
 ## Tools Used
-- **R** and **RStudio** – for data analysis and statistical computing  
-- **Python** – for programming and data processing tasks  
-- **Obsidian** – for structured note-taking, markdown documentation and academic resource consolidation
-- **Git/GitHub** – for version control and portfolio publishing
+- **R** and **RStudio** - for data analysis and statistical computing.
+- **Python** - for programming and data processing tasks.
+- **Obsidian** - for structured note-taking, markdown documentation and academic resource consolidation.
+- **Git/GitHub** - for version control and portfolio publishing.
 
 ---
 
