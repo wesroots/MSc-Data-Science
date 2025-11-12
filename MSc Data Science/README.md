@@ -4,7 +4,7 @@ Inside each module, material is organised uniquely due to module structure.
 
 ---
 
-### Each note type begins with a short description at the top of the page.
+### Each note type begins with a short description at the top of the page unless specified otherwise.
 - **Lecture Notes** - Summarise key concepts and reasoning from lectures/seminars.
 - **PC – Syntax Breakdown** - Explain R/Python syntax and logic from weekly PC sessions.
 - **Module Work** - Contain datasets, scripts, and outputs for assessed work.
@@ -14,14 +14,24 @@ Inside each module, material is organised uniquely due to module structure.
 - Folders corresponding to each independent project completed alongside the MSc course. 
 
 ### COMP7023 - Python Programming/
-- **--IMPORTANT--/** → important module material for personal use
-- **Lecture Notes/** → **Lecture Notes/** → weekly summaries integrating lecture content and early PC-session syntax analyses. Initial weeks include standalone syntax breakdowns to build coding proficiency; later notes merge syntax explanations with theoretical summaries.
-- **Module Work/** → weekly folders containing Python scripts, notebooks, data, and outputs for the Introduction to Python module.
+- **--IMPORTANT--/** - important module material for personal use.
+- **Weekly Lecture Folders**
+	- Weekly .md file consolidating university material and personal summaries.
+	- Graded worksheet (.ipynb) completed as part of assessed PC sessions.
+	- Supplemental exercises (.ipynb) independently sourced and completed to extend beyond the taught syllabus.
 
 ### MAST7866 - Foundations of Data Science/
-- **--IMPORTANT--/** → important module material for personal use
-- **Lecture Notes/** → weekly summaries integrating lecture content and early PC-session syntax analyses. Initial weeks include standalone syntax breakdowns to build coding proficiency; later notes merge syntax explanations with theoretical summaries.
-- **Module Work/** → weekly folders containing all R scripts, data, outputs, and project files for reproducible Foundations of Data Science exercises.
+- **--IMPORTANT--/** - important module material for personal use
+- **Weekly Lecture Folders**:
+	- Weekly .md file consolidating university material and personal summaries.
+	- PC Sessions/ - Structured practical work in R:
+		- Scripts/ - R scripts used in class for applied exercises.  
+		- Data/ - supporting datasets used in those scripts.  
+		- Output/ - rendered results, plots, or exported files from analyses.  
+	  - Exercises (R) - independent practice beyond the set curriculum when necessary. 
+	  - R Project file (.Rproj) - ensures reproducible local environment.
+- **Week Template** - Contains pre-structured empty folders for upcoming weeks, enforcing consistent organisation and ensuring continuous reproducibility across the academic timeline.
 
-### Other/ 
-- Contains miscellaneous administrative notes, Obsidian templates, and attachment directory
+### Misc/ 
+- Contains miscellaneous administrative notes, Obsidian templates, and attachment directory.
+- All miscellaneous files contributing to smooth organisational flow and strong academic practice are stored here.
