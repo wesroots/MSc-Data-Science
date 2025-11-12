@@ -9,11 +9,10 @@ All content is version-controlled and written to demonstrate reproducible, organ
 
 ## Repository Structure
 MSc-Data-Science/
-├── Modules/ → core taught modules (lecture notes, PC sessions, scripts, university material)
-├── Pre-Reading/ → independent preparatory material before the MSc
-├── Projects/ → independent data science projects
-└── README.md → current file
-
+-  Modules/ → core taught modules (lecture notes, PC sessions, scripts, university material)
+- Pre-Reading/ → independent preparatory material before the MSc
+- Projects/ → independent data science projects
+- README.md → current file
 
 ---
 
