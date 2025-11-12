@@ -1,27 +1,31 @@
-# Modules Directory
-Each folder mirrors the Obsidian vault layout used for MSc study organisation, including individual projects and independent pre-reading.  
-Inside each module, material is organised uniquely due to module structure.
+# MSc Data Science – Academic Portfolio
+
+This repository contains all coursework, lecture notes, and programming exercises completed as part of the MSc Data Science programme at the University of Kent.
+
+The structure mirrors the academic modules and their weekly progression.  
+All content is version-controlled and written to demonstrate reproducible, organised workflows in data science.
 
 ---
 
-### Each note type begins with a short description at the top of the page.
-- **Lecture Notes** - Summarise key concepts and reasoning from lectures/seminars.
-- **PC – Syntax Breakdown** - Explain R/Python syntax and logic from weekly PC sessions.
-- **Module Work** - Contain datasets, scripts, and outputs for assessed work.
+## Repository Structure
+MSc-Data-Science/
+-  Modules/ → core taught modules (lecture notes, PC sessions, scripts, university material)
+- Pre-Reading/ → independent preparatory material before the MSc
+- Projects/ → independent data science projects
+- README.md → current file
 
-## Folder Structure
-### -- Independent Projects --/
-- Folders corresponding to each independent project completed alongside the MSc course. 
+---
 
-### COMP7023 - Python Programming/
-- **--IMPORTANT--/** → important module material for personal use
-- **Lecture Notes/** → **Lecture Notes/** → weekly summaries integrating lecture content and early PC-session syntax analyses. Initial weeks include standalone syntax breakdowns to build coding proficiency; later notes merge syntax explanations with theoretical summaries.
-- **Module Work/** → weekly folders containing Python scripts, notebooks, data, and outputs for the Introduction to Python module.
+## Tools Used
+- **R** and **RStudio** – for data analysis and statistical computing  
+- **Python** – for programming and data processing tasks  
+- **Obsidian** – for structured note-taking and markdown documentation  
+- **Git/GitHub** – for version control and portfolio publishing
 
-### MAST7866 - Foundations of Data Science/
-- **--IMPORTANT--/** → important module material for personal use
-- **Lecture Notes/** → weekly summaries integrating lecture content and early PC-session syntax analyses. Initial weeks include standalone syntax breakdowns to build coding proficiency; later notes merge syntax explanations with theoretical summaries.
-- **Module Work/** → weekly folders containing all R scripts, data, outputs, and project files for reproducible Foundations of Data Science exercises.
+---
 
-### Other/ 
-- Contains miscellaneous administrative notes, Obsidian templates, and attachment directory
+## Purpose
+This repository is designed to:
+1. Maintain transparent academic documentation.  
+2. Consolidate lecture concepts, PC session exercises, and practical code.  
+3. Demonstrate professional standards in reproducibility and documentation for future employers.

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAST7866 - Foundations of Data Science/Week 6/W6 * -.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W6 * -"
+              "title": "README"
             }
           }
         ],
@@ -207,11 +207,12 @@
   },
   "active": "088f511574f4367a",
   "lastOpenFiles": [
+    "README lower.md",
+    "README.md",
+    "MAST7866 - Foundations of Data Science/Week 6/W6 * -.md",
     "MAST7866 - Foundations of Data Science/Week 5/W5 * - Hypothesis Testing 2 & R Markdown.md",
     "COMP7023 - Python Programming/Week 6-7 - OOP/W6 * - Object Oriented Programming.md",
-    "MAST7866 - Foundations of Data Science/Week 6/W6 * -.md",
     "Misc/Orphans/📌 Dashboard.md",
-    "README.md",
     "COMP7023 - Python Programming/Week 6-7 - OOP/Supplemental Exercises.ipynb",
     "COMP7023 - Python Programming/Week 8 - Panda's Dataframes; Efficiency/W8 - Panda's Dataframes; Efficiency.md",
     "COMP7023 - Python Programming/Week 6-7 - OOP/Worksheet 6.ipynb",
@@ -250,7 +251,6 @@
     "MAST7866 - Foundations of Data Science/-- IMPORTANT --/Intro to R & RStudio.md",
     "MAST7866 - Foundations of Data Science/-- IMPORTANT --/Assessments.md",
     "COMP7023 - Python Programming.md",
-    "Misc/Orphans/Employability Overview.md",
     "Misc/Images/Pasted image 20251031160238.png",
     "Misc/Images/Pasted image 20251031160235.png"
   ]

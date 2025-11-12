@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "README lower",
+      "path": "README lower.md"
+    },
+    {
       "basename": "W6 * -",
       "path": "MAST7866 - Foundations of Data Science/Week 6/W6 * -.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "W6 * - Object Oriented Programming",
       "path": "COMP7023 - Python Programming/Week 6-7 - OOP/W6 * - Object Oriented Programming.md"
-    },
-    {
-      "basename": "📌 Dashboard",
-      "path": "Misc/Orphans/📌 Dashboard.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
