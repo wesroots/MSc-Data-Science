@@ -36,6 +36,7 @@ All changes made locally in Obsidian are automatically committed and pushed to t
 	  - R Project file (.Rproj) - ensures reproducible local environment.
 - **Week Template** - Contains pre-structured empty folders for upcoming weeks, enforcing consistent organisation and ensuring continuous reproducibility across the academic timeline.
 
-### Misc/ 
+### Misc/
+- Local workspace for temporary or personal notes - hidden (.gitignore)
 - Contains miscellaneous administrative notes, Obsidian templates, and attachment directory.
 - All miscellaneous files contributing to smooth organisational flow and strong academic practice are stored here.
