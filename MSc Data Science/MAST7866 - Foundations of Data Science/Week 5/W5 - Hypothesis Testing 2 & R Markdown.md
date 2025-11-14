@@ -107,7 +107,7 @@ $$
 - $\alpha$ -> intercept
 - $\beta$ -> gradient
 - $e_i$ random error
-## Key Idea + R
+## Key Idea + R  + $R^2$
 Fit a line that minimises squared vertical errors between observed and predicted points
 - Least squares regression
 ### R:
@@ -136,7 +136,66 @@ Where:
 - SSR = $\sum(\text{Squared distance from resgression line at each point})$
 - SST = $\sum(\text{Squared distance from mean of }y)$
 ## Output
+A standard `summary(lm(...))` output contains the following:
+**Call** - shows exact formula used
+**Residuals** - summary of residual distribution (Min, Q1, Median, Q3, Max). Indicates symmetry and presence of outliers
+**Coefficients table** - estimates, standard errors, $t$-values, $p$-values for both intercepts and slope
+**Residual standard error (RSE)** - Estimate of $\sigma$ (noise level). Smaller = tighter fit
+**$R^2$ and Adjusted $R^2$** - proportion of variability explained by the model
+**F-statistics** - overall significance test for regression
 ## Interpreting $\hat{\beta}$
+$\hat{\beta}$ - gradient estimate
+- Estimated average change is response variable for a one-unit increase in $x$
+$$
+\hat{\beta} = \tfrac{{\text{cov}}(x,y)}{\text{var}(x)}
+$$
+- Covariance of $x$ and $y$ divided by variance of $x$
+### Interpretation principles
+**1. Sign**
+- $\hat{\beta} >0$ : as $x$ increases, mean of $y$ increases
+- $\hat{\beta} <0$ : as $x$ increases, mean of $y$ decreases
+**2. Magnitude**
+- Absolute size tells how much $y$ changes per unit $x$
+**3. $p$-value and $t$-value**
+- "Is the slope real"
+Hypothesis test is
+$$
+H_0 : \beta = 0 \quad \quad  H_1 : \beta \neq 0
+$$
+- Small $p$-value ($<0.05$) = strong evidence that $x$ is a real predictor of $y$
+- Large $p$-value = cannot conclude $x$ affects $y$
+**4. CI**
+Indicates plausible values of the true slope
+- If CI includes 0 -> slope might be zero
+- If CI does not include 0 -> real non-zero effect
 ## Basic Diagnostics
-## Typical Variations
+Checks to see if the linear model assumptions roughly hold
+- Linear regression model rules are not being violated
+### 1. Residuals vs fitted
+Residuals = diff. between real and predicted
+Fitted = predicted
+![[Screenshot 2025-11-14 at 11.08.40.png]]
+- Plot = residuals on y-axis, fitted values on x-axis
+- Goal: no clear pattern
+- Pattern (curve, U-shape) -> relationship may not be linear
+### 2. Normal Q-Q plot
+Sort all residuals, compare to perfectly normally distributed errors would look like
+![[Screenshot 2025-11-14 at 11.08.59.png]]
+- Residuals should fall roughly on a straight line
+- "Do the errors look normally distributed?"
 # Finding Data Patterns (PC10)
+## Visualising Trends
+Used for time-ordered data
+- Plot variable against time
+- Look for a general direction
+- Real data may have noise; trend is long-term movement
+## Finding Correlations
+Shows whether two quantities move together
+### Pearson correlation
+- Positive or negative correlation - direction
+- $|r|$ close to 1 -> strong relationship
+- $r \approx 0$ -> no linear association
+### How to check
+- Scatterplot
+- `cor(x,y)`
+- `cor.test(x,y)` for significance

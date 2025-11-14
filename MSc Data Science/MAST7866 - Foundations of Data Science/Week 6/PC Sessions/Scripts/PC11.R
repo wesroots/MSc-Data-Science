@@ -128,3 +128,4 @@ summary(diamonds_model)$sigma
 
 # Assumes constant variance - no other factors such as cut, colour etc.
 # Extrapolation produces unrealistic results
+

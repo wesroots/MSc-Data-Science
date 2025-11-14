@@ -94,3 +94,69 @@ A tree is a hierarchical data structure made up of nodes and branches
 - Each object has data and a pointer to the next object
 ![[Screenshot 2025-11-09 at 11.19.57.png]]
 # Chapter 4: Mutable Data
+## 4.1 The Object Metaphor - Conceptual
+**Concept:** in Python, everything is an object. Each object bundles:
+- Data (attributes)
+- Behaviour (methods accessed via dot notation)
+### Key ideas
+- Objects expose operations by message printing:
+	- `value.method()`
+- Methods are function-valued attributes bound to the object they operate on
+- Built-in types (e.g., `str`, `date`, `list`) behave like user-defined classes like this
+## 4.2 Sequence Objects
+**Concept:** Lists are mutable sequence objects
+### Aliasing
+Assignment does not copy:
+```python
+a = suits # a and suits refer to the same list of objects
+
+# Instead, use:
+a = suits.copy()
+```
+## 4.3 Tuples
+**Concept:** tuples are immutable sequences, often used for fixed collections of values that should not change over time
+### Properties
+- Brackets optional:
+```python
+1, 2 + 3 # = (1, 5)
+```
+- As they are immutable, can be dictionary keys and safer in shared contexts
+### Subtle point
+A tuple's contents may contain mutable objects:
+```python
+t = (10, 20, [30, 40])
+t[2].pop() # allowed - mutating the list inside the tuple
+```
+## 4.4 Dictionaries
+**Concept:** Dictionaries map immutable keys to values
+### Operations
+- Lookup and assignment
+```python
+numerals["X"] # 10
+numerals["L"] # 50
+```
+- `get(key, default)` avoids KeyError and simplifies safe retrieval
+- Dictionary comprehensions create new mappings concisely:
+```python
+{x: x*x for x in range(3, 6)}
+```
+Loops through range and creates key of `x` and value of `x*x`
+## 4.5 Local State and Nonlocal
+**Concept:** functions can retain state across calls by enclosing variables. in their lexical environment
+### Example pattern
+A function returns another function that updates internal state:
+```python
+def make_withdraw(balance):
+	def withdraw(amount):
+		nonlocal balance # refers to outer variable
+		if amount > balance:
+			return "Insufficient funds"
+		balance -= amount
+		return balance
+	return withdraw
+```
+**With `nonlocal`**
+- Mutations to balance affects enclosing function's variable
+**Without `nonlocal`**
+- The variable can be read from the outer scope
+- But any assignment creates a new inner-scope variable that does not affect the outer one
