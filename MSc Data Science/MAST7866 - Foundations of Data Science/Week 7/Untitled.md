@@ -16,4 +16,7 @@ tags:
 	- $\beta_1$ -> true gradient of regression line
 - CI of $\beta_1$
 - $Time = \alpha + \beta \times Tonnage + \epsilon$
-- 
+- Residual analysis
+	- Heteroscedasticity
+		- Logs
+	- 
