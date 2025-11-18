@@ -15,4 +15,5 @@ tags:
 	- Null hypothesis for linear regression
 	- $\beta_1$ -> true gradient of regression line
 - CI of $\beta_1$
+- $Time = \alpha + \beta \times Tonnage + \epsilon$
 - 
