@@ -52,7 +52,7 @@ summary(fit_diamonds)
 # p value = 2.2e-16, coefficient is extremely small. Reject H_0
 # There is very strong evidence that the effect of Size on Price =/= zero
 # (b)
-(cor(diamonds$Size, diamonds$Price))^2
+(cor(diamonds$Size, diamonds$Price))^2 
 # (c)
 newdata2 = data.frame(Size=c(0.15, 0.25))
 predict(fit_diamonds, newdata2, interval="prediction")
