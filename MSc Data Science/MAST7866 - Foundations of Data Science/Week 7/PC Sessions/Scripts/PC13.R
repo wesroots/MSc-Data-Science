@@ -54,7 +54,7 @@ summary(fit_diamonds)
 # (b)
 (cor(diamonds$Size, diamonds$Price))^2
 # (c)
-newdata2 = newdata = data.frame(Size=c(0.15, 0.25))
+newdata2 = data.frame(Size=c(0.15, 0.25))
 predict(fit_diamonds, newdata2, interval="prediction")
 # For 0.15 -> 233.1609 - 363.8947
 # For 0.25 -> 605.4364 - 735.8242
@@ -91,7 +91,7 @@ fit_glakes <- lm(Time~Tonnage, data=glakes)
 abline(fit_glakes, col="blue")
 par(mfrow = c(2,2))
 plot(fit_glakes)
-par(mfrow = c(1,1))
+plot1 <- par(mfrow = c(1,1))
 # 1. Resid. vs fitted -> slight curve pattern and increasing spread as values increase
 # 2. Q-Q plot -> residuals deviate from straight line at both ends -> departures from normality
 # 3. Scale-location plot -> heteroscedasticity
@@ -101,3 +101,10 @@ par(mfrow = c(1,1))
 # 2. QQ clear bend at both ends
 # 3. strong upward trend -> heretoscedasticity
 # 4. One point with very high leverage -> influence issues
+# (c)
+(cor(glakes$Time, glakes$Tonnage))^2
+summary(fit_glakes) # 0.8386
+# Model is good as R^2 is strong
+# (d)
+newdata3 = data.frame(Tonnage = 8000)
+predict(fit_glakes, newdata3) # 64.48766
